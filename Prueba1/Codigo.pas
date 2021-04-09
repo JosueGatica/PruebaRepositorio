@@ -26,7 +26,7 @@ implementation
 
 procedure TFormulario.Button1Click(Sender: TObject);
 begin
-  Texto.Caption := 'Hola lindo!'
+  Texto.Caption := 'Hola lindo!Segui asi!'
 end;
 
 end.
